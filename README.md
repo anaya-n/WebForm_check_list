@@ -1,2 +1,2 @@
 # WebForm_check_list
-QA Study 29_group Vadim Ksendzov
+IT_Career Registration Form: check list, bug reports
